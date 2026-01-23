@@ -8,7 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      GitHub: "https://github.com/utxra",
+      LinkedIn: "https://www.linkedin.com/in/utxra/",
+      Email: "fran.ruiz.dev@proton.me.com",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
@@ -18,7 +20,12 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Breadcrumbs({
+        spacerSymbol: "❯",
+        rootName: "Inicio",
+        resolveFrontmatterTitle: true,
+        showCurrentPage: true,
+      }),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
@@ -38,7 +45,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        title: "Navegador",
+        folderClickBehavior: "link",
+      }
+    )),
   ],
   right: [
     Component.Graph(),
@@ -49,7 +61,16 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(
+    {
+      spacerSymbol: "❯",
+      rootName: "Inicio",
+      resolveFrontmatterTitle: true,
+      showCurrentPage: true,
+    }
+  ),
+  Component.ArticleTitle(),
+  Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
