@@ -3,8 +3,7 @@ title: Inicio
 ---
 # Francisco Javier Ruiz 🛡️
 
-> **Cybersecurity Analyst & Pentester in training**
-> *Analizando seguridad desde la perspectiva del desarrollador.*
+> **Cybersecurity Specialist**
 
 Bienvenido. Soy un especialista en ciberseguridad. Mi enfoque se basa en una premisa simple: *para proteger un sistema, primero debes entender cómo se construye.*
 
@@ -50,8 +49,6 @@ No soy solo un teórico. Tengo experiencia real en entornos de producción:
 ---
 
 ## 📫 Contacto
-
-Hablemos de seguridad.
 
 * 📧 [franruiz.dev@proton.me](mailto:franruiz.dev@proton.me)
 * 💼 [LinkedIn](https://www.linkedin.com/in/fran-ruiz-dev/)

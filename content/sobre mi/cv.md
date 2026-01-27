@@ -1,5 +1,6 @@
 ---
-title: Currículum Digital
+title: CV
 ---
-Descargar Currículo
-Content
+Aquí se encuentra una versión PDF descargable de mi último CV.
+
+![[cv.pdf]]
