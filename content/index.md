@@ -7,13 +7,13 @@ title: Inicio
 
 Bienvenido. Soy un especialista en ciberseguridad. Mi enfoque se basa en una premisa simple: *para proteger un sistema, primero debes entender cómo se construye.*
 
-Cuento con una base sólida como **SysAdmin** y **Desarrollador Web**, lo que me permite identificar vulnerabilidades no solo a nivel de red, sino también en el código fuente y la lógica de negocio.
-
 ---
 
-## 🎯 Objetivo Profesional
+## 💭 Mi filosofía
 
-Actualmente sigo formándome con diferentes cursos y certificaciones y buscando oportunidades como **Analista SOC (L1)**, **Pentester Junior** o **Auditor de Seguridad**.
+Me muevo en la intersección entre la **Administración de Sistemas (IT Operations)**, el **Desarrollo Web** y la **Ciberseguridad**. Mi objetivo es garantizar que la infraestructura de una empresa no solo sea funcional y escalable, sino inherentemente segura desde el primer despliegue.
+
+**¿Qué busco?** Unirme a un equipo donde pueda aplicar mi capacidad de automatización y análisis técnico, ya sea gestionando sistemas críticos, auditando aplicaciones o monitorizando amenazas en un entorno SOC.
 
 ---
 
@@ -21,30 +21,26 @@ Actualmente sigo formándome con diferentes cursos y certificaciones y buscando 
 
 Mi formación en el Immune Institute y mi experiencia previa se centran en:
 
-* **Ofensiva (Red Team):** Hacking Ético, Análisis de vulnerabilidades web (OWASP Top 10), Uso de Burp Suite.
-* **Defensiva (Blue Team):** Hardening de sistemas y redes , Gestión de incidentes y Ciberinteligencia.
-* **Infraestructura:** Administración de entornos virtualizados (VMware ESXi) y scripting de automatización (PowerShell/Bash).
+- **🛡️ Ciberseguridad Ofensiva y Defensiva:** Formación avanzada en el [[certificaciones#🛡️ Ciberseguridad e Infraestructura|Immune Institute]].
+
+- **⚙️ Infraestructura y Automatización:** Experiencia en entornos virtualizados y despliegue de infraestructura mediante código ([[#📂 Laboratorios y Proyectos Destacados|Vagrant]]).
+
+- **💻 Desarrollo con Mentalidad Secura:** Experiencia real creando software modular y gestionando ciclos de vida con **Git/GitHub**, lo que me permite entender las vulnerabilidades desde la raíz: el código.
 
 ---
 
 ## 📂 Laboratorios y Proyectos Destacados 
 
 Aquí documento el desarrollo de herramientas de seguridad, laboratorios de análisis y mi experiencia aplicada: 
-* **[[laboratorio automatizado DFIR]]**: Despliegue de un entorno de análisis forense y respuesta ante incidentes utilizando **Vagrant** e infraestructura como código. 
-* [[write-ups/index]]: Resolución de máquinas y retos técnicos (HackTheBox / TryHackMe). 
+* **[[laboratorio automatizado DFIR|Laboratorio automatizado DFIR]]**: Despliegue de un entorno de análisis forense y respuesta ante incidentes utilizando **Vagrant** e infraestructura como código. 
+* [[write-ups/index|Write ups]]: Resolución de máquinas, retos técnicos y demás proyectos . 
 * [[experiencia previa|Experiencia previa]]: Cómo apliqué seguridad y optimización en mis roles anteriores.
 
 ---
 
 ## 🚀 ¿Por qué mi perfil es diferente?
 
-No soy solo un teórico. Tengo experiencia real en entornos de producción:
-
-1.  **Mentalidad de "Secure Coder":** Mi experiencia previa como Desarrollador Web me permite entender la lógica interna de las aplicaciones. No solo detecto vulnerabilidades, comprendo por qué ocurren en el código y cómo remediarlas de forma eficiente.
-
-2.  **Alta Adaptabilidad Internacional:** Durante mi etapa en Cracovia, Polonia, demostré mi capacidad para integrarme y ser resolutivo en un entorno profesional y cultural totalmente diferente al mío. Esta experiencia internacional subraya mi flexibilidad, mi capacidad de aprendizaje rápido y mi disposición para enfrentar retos fuera de mi zona de confort. 
-
-3.  **Proactividad y Autogestión:** He liderado la implementación de nuevas metodologías (como el control de versiones con Git) y la automatización de procesos administrativos, demostrando iniciativa para mejorar la eficiencia de los equipos en los que trabajo.
+Soy una persona inconformista por naturaleza. Me motiva el aprendizaje continuo y la escalabilidad de los proyectos en los que participo. Mi experiencia profesional me ha enseñado a ser resolutivo bajo presión, ya sea optimizando procesos administrativos mediante IA o adaptándome a entornos internacionales (como durante mi etapa técnica en **Cracovia, Polonia**).
 
 ---
 
