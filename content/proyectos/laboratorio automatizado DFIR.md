@@ -96,7 +96,7 @@ He aplicado los mismos **desplegables** que en tus otras notas para facilitar la
 
 ---
 
-## Media
+## Medios
 
 Aquí puedes ver el laboratorio en funcionamiento y acceder a la Box oficial:
 

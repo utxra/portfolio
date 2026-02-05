@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-order: 0
+order: 1
 ---
 
 Aquí se listan todos los proyectos documentados para mi portfolio.

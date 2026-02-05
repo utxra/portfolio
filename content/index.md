@@ -40,7 +40,7 @@ Aquí documento el desarrollo de herramientas de seguridad, laboratorios de aná
 
 ## 🚀 ¿Por qué mi perfil es diferente?
 
-Soy una persona inconformista por naturaleza. Me motiva el aprendizaje continuo y la escalabilidad de los proyectos en los que participo. Mi experiencia profesional me ha enseñado a ser resolutivo bajo presión, ya sea optimizando procesos administrativos mediante IA o adaptándome a entornos internacionales (como durante mi etapa técnica en **Cracovia, Polonia**).
+Soy una persona inconformista por naturaleza. Me motiva el aprendizaje continuo y la escalabilidad de los proyectos en los que participo. Mi experiencia profesional me ha enseñado a ser resolutivo bajo presión, ya sea desarrollando diferentes soluciones a contrarreloj o adaptándome a entornos internacionales (como durante mi etapa técnica en **Cracovia, Polonia**).
 
 ---
 
