@@ -28,3 +28,7 @@ En este proyecto, **he asumido** la responsabilidad de diseñar y ejecutar una e
 
 ### Fase 4: Validación Final
 - [[07-Auditoría-y-Validación-Técnica|Auditoría Técnica]]: Resultados de Nmap, Curl y métricas de Lynis.
+
+---
+
+[Repositorio de GitHub](https://github.com/utxra/hardened-webserver-infrastructure)
