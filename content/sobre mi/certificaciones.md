@@ -15,6 +15,7 @@ Estas certificaciones avalan mi capacidad para diseñar, gestionar y proteger ac
 - **CCST Networking (Cisco)** | [Ver Badge](https://www.credly.com/badges/9c3f0f0a-da0c-4090-86ec-1a10a0f09a1e/public_url)
 - **Cybersecurity Fundamentals** | [Ver Credencial](https://www.credential.net/ba9a4636-86db-4e60-bea5-d3f3f30287b3#acc.gPza9HtI)
 - **Google Cloud Fundamentals** | [Ver Certificado](/assets/certificados/google-cloud-fundamentals.pdf)
+- **Despliegues con Ansible** | [Ver certificado](https://openwebinars.net/cert/Nzz9)
 
 ---
 

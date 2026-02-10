@@ -33,8 +33,9 @@ Mi formación en el Immune Institute y mi experiencia previa se centran en:
 
 Aquí documento el desarrollo de herramientas de seguridad, laboratorios de análisis y mi experiencia aplicada: 
 * **[[laboratorio automatizado DFIR|Laboratorio automatizado DFIR]]**: Despliegue de un entorno de análisis forense y respuesta ante incidentes utilizando **Vagrant** e infraestructura como código. 
+* **[[proyectos/hardened webserver/index|Hardened Web Infrastructure]]**: Orquestación de infraestructura segura mediante **Ansible**. He automatizado el hardening integral (OS, Red y Aplicación) de un servidor web, implementando una arquitectura de **Defensa en Profundidad** y gestión de secretos con **AES-256**.
 * [[write-ups/index|Write ups]]: Resolución de máquinas, retos técnicos y demás proyectos . 
-* [[experiencia previa|Experiencia previa]]: Cómo apliqué seguridad y optimización en mis roles anteriores.
+%%* [[experiencia previa|Experiencia previa]]: Cómo apliqué seguridad y optimización en mis roles anteriores.%%
 
 ---
 
