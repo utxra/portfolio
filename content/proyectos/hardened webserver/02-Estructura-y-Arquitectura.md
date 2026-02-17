@@ -3,18 +3,32 @@
 Como base del proyecto, se ha implementado una estructura modular basada en **Roles**, siguiendo las mejores prácticas de Ansible para entornos de producción.
 
 > [!info] Estructura del Proyecto
-> ```Plaintext
-> Hardened-WebServer/
-> ├── ansible.cfg          # Configuración global y optimización
-> ├── group_vars/          # Variables de grupo (configuración de seguridad global)
-> │   └── all.yml
-> ├── inventory/           # Definición de entornos (Dev, Prod, Lab)
-> │   └── hosts.ini
-> ├── roles/               # Lógica modular y reutilizable
-> │   ├── common/          # Configuración base del OS y parches
-> │   ├── security/        # Hardening (CIS, SSH, UFW, Fail2Ban)
-> │   └── webserver/       # Despliegue de Nginx/Apache endurecido
-> └── site.yml             # Playbook maestro (Orquestador)
+> ```Plaintext        
+>├── ansible.cfg                        # Configuración global y optimización
+>├── group_vars/                        # Variables de grupo (configuración de seguridad global)
+>│       ├── main.yml
+>│       └── vault.yml
+>├── inventory/                         # Definición de entornos (Dev, Prod, Lab)
+>│   └── hosts.ini
+>├── roles                              # Lógica modular y reutilizable
+>│   ├── common/                        # Configuración base del OS y parches
+>│   │   ├── files
+>│   │   │   └── 20auto-upgrades
+>│   │   └── tasks
+>│   │       └── main.yml
+>│   ├── security                       # Hardening (CIS, SSH, UFW, Fail2Ban)
+>│   │   ├── handlers
+>│   │   │   └── main.yml
+>│   │   └── tasks
+>│   │       └── main.yml
+>│   └── webserver                      # Despliegue de Nginx/Apache endurecido
+>│       ├── handlers
+>│       │   └── main.yml
+>│       ├── tasks
+>│       │   └── main.yml
+>│       └── templates
+>│           └── hardened_site.conf.j2  
+>└── site.yml                           # Playbook maestro (Orquestador)
 > ```
 
 ## 🛡️ Justificación del Diseño: Modularidad y Seguridad
