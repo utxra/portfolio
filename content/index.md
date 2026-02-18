@@ -1,51 +1,62 @@
 ---
 title: Inicio
 ---
-# Francisco Javier Ruiz 🛡️
+## Fran Ruiz
 
-> **Cybersecurity Specialist**
+> **Ciberseguridad/Operaciones IT/SysAdmin**
 
-Bienvenido. Soy un especialista en ciberseguridad. Mi enfoque se basa en una premisa simple: *para proteger un sistema, primero debes entender cómo se construye.*
+Soy un perfil técnico enfocado en construir infraestructuras seguras desde el inicio.
 
----
+Combino administración de sistemas, automatización (DevOps) y ciberseguridad.  
+No trato la seguridad como un parche final, sino como parte del diseño: desde la primera línea de código hasta el servidor en producción.
 
-## 💭 Mi filosofía
-
-Me muevo en la intersección entre la **Administración de Sistemas (IT Operations)**, el **Desarrollo Web** y la **Ciberseguridad**. Mi objetivo es garantizar que la infraestructura de una empresa no solo sea funcional y escalable, sino inherentemente segura desde el primer despliegue.
-
-**¿Qué busco?** Unirme a un equipo donde pueda aplicar mi capacidad de automatización y análisis técnico, ya sea gestionando sistemas críticos, auditando aplicaciones o monitorizando amenazas en un entorno SOC.
+Busco unirme a un equipo técnico donde pueda aportar valor real:  
+respondiendo a incidentes, asegurando entornos críticos y automatizando procesos para reducir errores humanos. (DevOps/SysAdmin/Ciberseguridad)
 
 ---
 
-## 🧠 Áreas de Conocimiento
+## 🛡️ Proyectos y evidencia técnica
 
-Mi formación en el Immune Institute y mi experiencia previa se centran en:
+No creo en “decir que sé”. Prefiero enseñar cómo trabajo.
 
-- **🛡️ Ciberseguridad Ofensiva y Defensiva:** Formación avanzada en el [[certificaciones#🛡️ Ciberseguridad e Infraestructura|Immune Institute]].
+### 1️⃣ Laboratorio DFIR Automatizado (Infrastructure as Code)
 
-- **⚙️ Infraestructura y Automatización:** Experiencia en entornos virtualizados y despliegue de infraestructura mediante código ([[#📂 Laboratorios y Proyectos Destacados|Vagrant]]).
+**El reto:** desplegar entornos forenses complejos de forma repetible y sin errores manuales.  
+**La solución:** orquestación completa con Vagrant para montar escenarios de análisis e incident response en minutos.
 
-- **💻 Desarrollo con Mentalidad Secura:** Experiencia real creando software modular y gestionando ciclos de vida con **Git/GitHub**, lo que me permite entender las vulnerabilidades desde la raíz: el código.
+👉 [[laboratorio automatizado DFIR|Ver documentación técnica]]
+
+### 2️⃣ Hardened Web Infrastructure (Defensa en Profundidad)
+
+**El reto:** crear un servidor web funcional pero resistente a ataques comunes.  
+**La solución:** automatización con Ansible, hardening del sistema, segmentación de red y cifrado AES-256 para secretos.
+
+👉 [[proyectos/hardened webserver/index|Ver despliegue]]
+
+### 3️⃣ Write-ups y análisis técnico
+
+Documentación de CTFs y retos de seguridad. Explico cómo pienso, no solo el resultado.
+
+👉 [[private/write-ups/index|Leer análisis]]
 
 ---
 
-## 📂 Laboratorios y Proyectos Destacados 
+## 👨‍💻 Sobre mí
 
-Aquí documento el desarrollo de herramientas de seguridad, laboratorios de análisis y mi experiencia aplicada: 
-* **[[laboratorio automatizado DFIR|Laboratorio automatizado DFIR]]**: Despliegue de un entorno de análisis forense y respuesta ante incidentes utilizando **Vagrant** e infraestructura como código. 
-* **[[proyectos/hardened webserver/index|Hardened Web Infrastructure]]**: Orquestación de infraestructura segura mediante **Ansible**. He automatizado el hardening integral (OS, Red y Aplicación) de un servidor web, implementando una arquitectura de **Defensa en Profundidad** y gestión de secretos con **AES-256**.
-* [[write-ups/index|Write ups]]: Resolución de máquinas, retos técnicos y demás proyectos . 
-%%* [[experiencia previa|Experiencia previa]]: Cómo apliqué seguridad y optimización en mis roles anteriores.%%
+Vengo de [Immune Institute](https://immune.institute/) (Máster en Ciberseguridad) y de trabajar en una consultora local donde desarrollé diferentes proyectos como desarrollador web.
 
----
+Eso me enseñó dos cosas:
 
-## 🚀 ¿Por qué mi perfil es diferente?
+- Pensar como atacante y como defensor.
+- La planificación es clave para el éxito de un proyecto.
 
-Soy una persona inconformista por naturaleza. Me motiva el aprendizaje continuo y la escalabilidad de los proyectos en los que participo. Mi experiencia profesional me ha enseñado a ser resolutivo bajo presión, ya sea desarrollando diferentes soluciones a contrarreloj o adaptándome a entornos internacionales (como durante mi etapa técnica en **Cracovia, Polonia**).
+Soy pragmático: prefiero una solución simple y robusta que una arquitectura brillante pero frágil.
 
 ---
 
 ## 📫 Contacto
 
-* 📧 [franruiz.dev@proton.me](mailto:franruiz.dev@proton.me)
-* 💼 [LinkedIn](https://www.linkedin.com/in/fran-ruiz-dev/)
+Si crees que mi perfil encaja con tu equipo, hablemos.
+
+📧 [franruiz.dev@proton.me](mailto:franruiz.dev@proton.me)  
+💼 LinkedIn
