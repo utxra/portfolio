@@ -33,11 +33,11 @@ No creo en “decir que sé”. Prefiero enseñar cómo trabajo.
 
 👉 [[proyectos/hardened webserver/index|Ver despliegue]]
 
-### 3️⃣ Write-ups y análisis técnico
+<!-- ### 3️⃣ Write-ups y análisis técnico
 
 Documentación de CTFs y retos de seguridad. Explico cómo pienso, no solo el resultado.
 
-👉 [[private/write-ups/index|Leer análisis]]
+👉 [[private/write-ups/index|Leer análisis]] -->
 
 ---
 
