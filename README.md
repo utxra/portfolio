@@ -1,18 +1,38 @@
-# Quartz v4
+# Fran Ruiz | Portfolio
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Este portfolio no es solo una lista estática de proyectos; es un **Jardín Digital** vivo donde documento mi aprendizaje, mis proyectos y mi proceso de pensamiento.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+He construido este sitio utilizando una metodología de "Segundo Cerebro", conectando conceptos y experiencias para ofrecer una visión 360° de mi perfil profesional.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 🛠️ Stack Tecnológico
+Este portfolio está construido con:
+* **[Quartz](https://quartz.jzhao.xyz/):** Un generador de sitios estáticos rápido y personalizable para publicar contenido de Obsidian.
+* **[Obsidian](https://obsidian.md/):** Mi base de conocimientos donde gestiono notas, ideas y documentación técnica en Markdown.
+* **Hosting:** Vercel.
 
-## Sponsors
+---
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🌟 Qué encontrarás aquí
+* **Proyectos:** Casos de estudio detallados con retos y soluciones.
+* **Notas Técnicas:** Documentación de conceptos que domino y tecnologías en las que profundizo.
+* **Grafos de Conocimiento:** Una visualización interactiva de cómo se conectan mis habilidades y experiencias.
+
+---
+
+## 🚀 Cómo navegar
+Al ser un sistema basado en notas interconectadas, puedes explorar de dos formas:
+1.  **Lineal:** Usando el menú de navegación para ir directo a "Proyectos" o "Sobre mí".
+2.  **Exploratoria:** Utilizando el **Grafo Interactivo** o los enlaces internos dentro de cada nota para ver cómo un proyecto se relaciona con una tecnología específica.
+
+---
+
+## 📫 Contacto
+¿Te interesa mi perfil o quieres charlar sobre algún proyecto?
+* **LinkedIn:** https://www.linkedin.com/in/fran-ruiz-dev/
+* **Email:** franruiz.dev@proton.me
+* **Web:** https://franruiz.dev/
+
+---
+*Hecho con ☕ y muchas notas en Markdown.*
