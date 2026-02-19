@@ -59,4 +59,4 @@ Soy pragmático: prefiero una solución simple y robusta que una arquitectura br
 Si crees que mi perfil encaja con tu equipo, hablemos.
 
 📧 [franruiz.dev@proton.me](mailto:franruiz.dev@proton.me)  
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/fran-ruiz-dev/)
